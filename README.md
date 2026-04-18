@@ -120,14 +120,3 @@ Use a standard Python installation that includes Tkinter. On most Windows Python
 - The application uses threads so the window stays responsive while the AI is "thinking".
 - If you want to change the AI model, update the `ollama_config` inside [`tictactoe_gui.py`](/d:/TicTacToeAI/tictactoe_gui.py).
 
-## Future Improvements
-
-- Add a score tracker
-- Highlight winning lines
-- Add difficulty modes
-- Replace prompt-based play with a deterministic minimax option
-- Improve dependency cleanup in `requirements.txt`
-
-## License
-
-No license file is included yet. If you plan to share or publish this project, adding a license is recommended.
